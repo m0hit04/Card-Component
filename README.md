@@ -11,18 +11,12 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+It's a 3 coloumn card component made with the help of Flexbox.
 
 ### The challenge
 
@@ -33,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](/images/screenshot.png)
 
 ## My process
 
